@@ -1,0 +1,32 @@
+_repo: Louis-Pasteur-His-Life-and-Labours_47505
+contributor:
+  contributor:
+    agent_name: Tyndall, John
+    alias: Tyndal, John
+    birthdate: 1820
+    deathdate: 1893
+    gutenberg_agent_id: '561'
+    url: http://www.gutenberg.org/2009/agents/561
+    wikipedia: http://en.wikipedia.org/wiki/John_Tyndall
+  translator:
+    agent_name: Hamilton, Lady Claude
+    gutenberg_agent_id: '44352'
+    url: http://www.gutenberg.org/2009/agents/44352
+creator:
+  author:
+    agent_name: Vallery-Radot, René
+    gutenberg_agent_id: '44351'
+    url: http://www.gutenberg.org/2009/agents/44351
+description: ''
+gutenberg_issued: '2014-11-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '47505'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: 'Louis Pasteur
+
+  His Life and Labours'
+url: http://www.gutenberg.org/ebooks/47505
