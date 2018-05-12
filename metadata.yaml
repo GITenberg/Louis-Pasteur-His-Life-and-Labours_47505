@@ -1,4 +1,5 @@
 _repo: Louis-Pasteur-His-Life-and-Labours_47505
+_version: 0.1.0
 contributor:
   contributor:
     agent_name: Tyndall, John
@@ -12,12 +13,17 @@ contributor:
     agent_name: Hamilton, Lady Claude
     gutenberg_agent_id: '44352'
     url: http://www.gutenberg.org/2009/agents/44352
+covers:
+- cover_type: archival
+  image_path: 47505-h/images/cover.jpg
 creator:
   author:
     agent_name: Vallery-Radot, René
     gutenberg_agent_id: '44351'
     url: http://www.gutenberg.org/2009/agents/44351
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47505#Louis-Pasteur-His-Life-and-Labours
 gutenberg_issued: '2014-11-30'
 gutenberg_type: Text
 identifiers:
